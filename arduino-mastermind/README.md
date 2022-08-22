@@ -1,2 +1,2 @@
-# projects-school-c
- Projects portfolio from Technical University of Košice
+# Problem Set #6: Mastermind
+[Description]()
