@@ -1,4 +1,4 @@
-## School projects on **C**/**Arduino**
+## School projects on **C/C++** and **Arduino**
 
 ## Arduino Mastermind Game
 [Description](https://github.com/CoolmixZero/projects-school-c/blob/main/arduino-mastermind/Mastermind.pdf)
