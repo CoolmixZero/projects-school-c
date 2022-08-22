@@ -1,6 +1,4 @@
-# Problem Set #3: Some
-
-# Problems to Solve
+# Problem Set #3: Some Problems to Solve
 
 ### Goals
 
